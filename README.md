@@ -15,6 +15,7 @@ Hardware Required:
 To learn more about The Assembly’s workshops, visit our website, social media or email us at workshops@theassembly.ae  
 Our website: http://theassembly.ae 
 
+
 Social media: 
 —Instagram: http://instagram.com/makesmartthings 
 —Facebook: http://fb.com/makesmartthings 
